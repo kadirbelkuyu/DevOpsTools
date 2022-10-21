@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "python",
+            "name": "docker-volume",
+            "arguments": ["docker-volume.py"],
+            "workingDir": "/home/kadirbelkuyu/Desktop/DevOpsTools/Automations/docker-tool/",
+        },
+
+    ]
+}
